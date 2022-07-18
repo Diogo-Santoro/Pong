@@ -1,2 +1,2 @@
 # Pong
-Pong in Java
+Developing a Pong game made in Java
